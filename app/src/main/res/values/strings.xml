@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyDemoProject</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="register">Register</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

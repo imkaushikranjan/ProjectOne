@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="HOME" />
+        <item
+            android:id="@+id/nav_my_bookings"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="MY BOOKINGS" />
+        <item
+            android:id="@+id/nav_tariff"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="TARIFF" />
+        <item
+            android:id="@+id/nav_offers"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="OFFERS" />
+        <item
+            android:id="@+id/nav_referral"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="REFERRAL" />
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="FAQ'S" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="HELP" />
+        <item
+            android:id="@+id/nav_rate_us"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="RATE US" />
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="SIGN OUT" />
+    </group>
+
+
+
+</menu>
